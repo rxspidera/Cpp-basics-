@@ -1,7 +1,3 @@
-# Cpp-basics-
-My messy c++ trip. Learning, practicing, experimenting and barely surviving 🍺
-
-
 #include <iostream>
 #include <string>  
 using namespace std;
