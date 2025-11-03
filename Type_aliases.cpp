@@ -3,7 +3,7 @@
 using namespace std;
 
 // Learning topic 3 : type aliases..
-// Totally serious C++ program🧊
+// Totally serious C++ program🧊!!
 
 using dog = string;
 using me = string;
