@@ -1,7 +1,9 @@
 #include <iostream>
 #include <string>  
 using namespace std;
- 
+
+ // Learning topic 1 : Variables and basic data types of c++🕸️ Guyz better stick with me..
+
 int main() { 
     // dangg 🌪️ 
     string identity = "I'm no one"; 
