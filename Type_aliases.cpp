@@ -11,11 +11,11 @@ using banana = string;
 
 int main() {
     dog work = "Dog is debugging reality🦮";
-    me odd_habit = "Reading every damn i see on roads..cz why not🍺";
+    me odd_habit = "Reading every damn lines i see on roads..coz why not🍺";
     banana status = "Confused if its a fruit or variable🍌";
 
     cout << "What's dog so busy with?" << endl << work << endl;
-    cout << "Share one of your habit: " << odd_habit << endl;
+    cout << "Share one of your odd habit: " << odd_habit << endl;
     cout << "Banana status: " << status << endl;
 
     cout << "\n Everything is fine. Absolutely fine. 🌀" << endl;
