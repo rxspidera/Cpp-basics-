@@ -13,7 +13,7 @@ string gender = "Female";
 string worth = "unidentified";
 
 void introduction() {  
-		cout << "Hey there, Im here to cook." << '\n' << "cook my life." << '\n' << "Nah wait..🌪️im here to be cooked!!" <<'\n';  
+		cout << "Im here to cook." << '\n' << "cook my life." << '\n' << "Nah waittt🌪️im here to be cooked!!" <<'\n';  
 	}  
 }  
   
@@ -33,7 +33,7 @@ cout << dumbo1:: name << '\n';
 dumbo1::introduction();
 
 cout << dumbo2::name <<'\n';  
-	dumbo2::introduction();  
+dumbo2::introduction();  
 	  
   
 return 0;
