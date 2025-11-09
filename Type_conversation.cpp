@@ -20,6 +20,5 @@ cout << "Total earned: " << total <<" $" <<endl ;
  
 cout << "Approx earning: " << approx_total << " $" <<endl;  
   
-  
-return 0
+  return 0;
 }
