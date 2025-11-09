@@ -25,5 +25,5 @@ int main() {
     cout << "Age: " << age << " years" << endl;
     cout << "Height: " << height << " cm" << endl;
 
-    return 0;
+   return 0;
 }
