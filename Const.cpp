@@ -7,7 +7,7 @@ using namespace std;
 
 int main() {
 	float r = 7.8;
-	//r = Radius of a circle
+//r = Radius of a circle
 	
 	const float pi = 3.1416;
 	//The value of pi is fixed.(It never changes).So, we used const (constant)
