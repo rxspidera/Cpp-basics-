@@ -3,7 +3,7 @@
 #include <cmath>
 using namespace std;
 
-// Learning topic 8: Some arithmetic operations in C++
+// Learning topic 8: Some math related functions in C++
 
 int main() {
     double x = 4.0;
